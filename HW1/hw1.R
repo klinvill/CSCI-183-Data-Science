@@ -133,3 +133,4 @@ summary(subset(CTR_table, select=c("ctr.Min.", "ctr.Mean", "ctr.Max.")))
 qplot(ctr.Mean, data=CTR_table)
 qplot(ctr.Mean, data=CTR_table, facets=.~Signed_In)
 qplot(ctr.Mean, data=subset(CTR_table, Signed_In==1), facets=.~Gender)
+
