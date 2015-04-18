@@ -9,3 +9,7 @@ Exploratory Data Analysis exercise from the OReilly book ["Doing Data Science" b
 
 #### Class Activity 1
 Brief analysis of Bike Theft Data at Santa Clara University to find the dorm, day of week, and month of year that bike thefts occur the most at SCU
+
+#### Class Activity 2
+[Titanic Kaggle Competition] (http://www.kaggle.com/c/titanic-gettingStarted) using Boosting and Decision Trees
+
