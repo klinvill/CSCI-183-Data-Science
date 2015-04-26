@@ -13,3 +13,5 @@ Brief analysis of Bike Theft Data at Santa Clara University to find the dorm, da
 #### Class Activity 2
 [Titanic Kaggle Competition] (http://www.kaggle.com/c/titanic-gettingStarted) using Boosting and Decision Trees
 
+#### Expedia Activity
+Class competition to predict what users will purchase using ratings and competitive price information
