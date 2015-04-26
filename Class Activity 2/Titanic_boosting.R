@@ -1,4 +1,4 @@
-# Solving the Kaggle Titanic Problem Using Decision Tree
+# Solving the Kaggle Titanic Problem Using Boosting and Decision Trees
 # In Class Activity 2
 # Goal: Predict survival of passengers
 
