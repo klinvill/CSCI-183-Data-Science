@@ -21,3 +21,6 @@ Music clustering using Principal Component Analysis
 
 #### Soil pH Modeling with LASSO
 Soil pH modeling using ground sensor data and LASSO Penalized Regression
+
+#### General Social Survey Political Views
+Brief visualization of Americans' Political Views based on two representative issues (Gay Marriage and Wealth Distribution). This visualization is modeled after the graphic at [fivethirtyeight] (http://fivethirtyeight.com/datalab/there-are-few-libertarians-but-many-americans-have-libertarian-views/)
