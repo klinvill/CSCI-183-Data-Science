@@ -24,3 +24,6 @@ Soil pH modeling using ground sensor data and LASSO Penalized Regression
 
 #### General Social Survey Political Views
 Brief visualization of Americans' Political Views based on two representative issues (Gay Marriage and Wealth Distribution). This visualization is modeled after the graphic at [fivethirtyeight] (http://fivethirtyeight.com/datalab/there-are-few-libertarians-but-many-americans-have-libertarian-views/)
+
+#### Galaxy Prediction
+In-class competition based on the [Galxy Zoo Kaggle Competition] (https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge). My best result used an autoencoder to generate features from the images and then built a random forest model on those features. Disclaimer: the code for the autoencoder was largely written by the Professor of the course, George Mohler. 
