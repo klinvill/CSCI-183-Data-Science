@@ -27,3 +27,6 @@ Brief visualization of Americans' Political Views based on two representative is
 
 #### Galaxy Prediction
 In-class competition based on the [Galxy Zoo Kaggle Competition] (https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge). My best result used an autoencoder to generate features from the images and then built a random forest model on those features. Disclaimer: the code for the autoencoder was largely written by the Professor of the course, George Mohler. 
+
+#### D3 Visualization
+Visualizations of bike theft data using D3 and the number of people biking to work in counties of the United States. The bike theft visualization is based off of a D3 unemployment graphic. The number of people biking to work is visualized using a choropleth map in R. This was an in-class activity for a data science class.
