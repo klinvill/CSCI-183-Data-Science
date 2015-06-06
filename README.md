@@ -30,3 +30,9 @@ In-class competition based on the [Galxy Zoo Kaggle Competition] (https://www.ka
 
 #### D3 Visualization
 Visualizations of bike theft data using D3 and the number of people biking to work in counties of the United States. The bike theft visualization is based off of a D3 unemployment graphic. The number of people biking to work is visualized using a choropleth map in R. This was an in-class activity for a data science class.
+
+#### ORD Airline Visualization
+Visualization of and blog post about finding which airlines fly out of which airports most frequently. This visualization was built partly to satisfy a class assignment and partly as a tool for people who travel often for work to pick an airline to fly with. The latest version of the blog post can be found [here] (http://klinvill.github.io/CSCI-183-Data-Science/ORD%20Airline%20Visualization/blog.html).
+
+#### West Nile Virus
+[Kaggle competition] (https://www.kaggle.com/c/predict-west-nile-virus) on predicting the presence of West Nile Virus in Chicago given dates, weather, and location. Most of the work I did is located inside an IPython Notebook.
