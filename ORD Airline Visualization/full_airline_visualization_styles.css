@@ -36,6 +36,17 @@ circle {
   pointer-events: all;
 }
 
+#airline_bar_chart {
+  padding-left: 50px;
+}
+
+svg rect {
+  fill: steelblue;
+  fill-opacity: .8;
+  stroke: #fff;
+  pointer-events: all;
+}
+
 .key {
   width: 225px;
   border: 5px solid #ccc;

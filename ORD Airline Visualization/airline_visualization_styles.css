@@ -16,7 +16,7 @@ path.arc {
 
 path.highlighted {
   stroke: red;
-  stroke-opacity: inherit;
+  stroke-opacity: 1;
 }
 
 .state-boundary {
@@ -30,6 +30,13 @@ path.highlighted {
 }
 
 circle {
+  fill: steelblue;
+  fill-opacity: .8;
+  stroke: #fff;
+  pointer-events: all;
+}
+
+svg rect {
   fill: steelblue;
   fill-opacity: .8;
   stroke: #fff;
