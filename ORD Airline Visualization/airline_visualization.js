@@ -115,12 +115,12 @@ d3.csv("us_flights.csv", function(flights) {
   var axis_width = 200;
   var label_width = 100;
 
-    d3.select("#airline_bar_chart")
-      .append("text")
-      .attr("x", (bar_chart_width / 2))             
-      .attr("y", "1em")
-      .attr("text-anchor", "middle")  
-      .text("Flights per Year by Airline and Airport");
+  d3.select("#airline_bar_chart")
+    .append("text")
+    .attr("x", (bar_chart_width / 2))             
+    .attr("y", "1em")
+    .attr("text-anchor", "middle")  
+    .text("Flights per Month by Airline and Airport");
 
 
   d3.csv("key_airlines.csv", function(airlines) {
